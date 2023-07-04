@@ -71,4 +71,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Hosting
 
-The app is hosted via Amazon Amplify. It is configured to recieve webhooks for any update to branch main in [amplify-react-graphql repository](https://github.com/bloughran618/amplify-react-graphql). The app can be viewed publicly at https://main.d30bipmy5nkxmk.amplifyapp.com/ (for now)
+The app is hosted via Amazon Amplify. It is configured to recieve webhooks for any update to branch main in [amplify-react-graphql repository](https://github.com/bloughran618/amplify-react-graphql). The app can be viewed publicly at https://main.d30bipmy5nkxmk.amplifyapp.com/ (for now, this can be updated using Route 53 if I purchase a domain name...)
+
+### Resources
+
+Following along with this excellent tutorial: https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/
