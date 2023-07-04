@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Hosting
+
+The app is hosted via Amazon Amplify. It is configured to recieve webhooks for any update to branch main in [amplify-react-graphql repository](https://github.com/bloughran618/amplify-react-graphql). The app can be viewed publicly at https://main.d30bipmy5nkxmk.amplifyapp.com/ (for now)
